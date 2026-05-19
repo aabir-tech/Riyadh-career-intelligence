@@ -1,2 +1,2 @@
-# Riyadh-career-intelligence
-The goal here is to build a lightweight intelligence platform analyzing the Riyadh ecosystem for expats, startups, and professionals for different career options. The baseline is KSA's Vision 2030 for which stakeholders in KSA are working diligently to turn KSA (Riyadh first) into a regional trade, commerce, and travel, and tourism hub. The signals used are media, community, and geospatial datasets.
+# Riyadh-innovation-radar
+The goal here is to build a lightweight intelligence platform analyzing the Riyadh ecosystem for expats, startups, and careers. The baseline is KSA's Vision 2030 for which stakeholders in KSA, both public and private, are working diligently to turn KSA, and Riyadh first, into a regional trade, investment, commerce, travel, and tourism hub. The signals used are pulled and analyzed technically from the media, community, research, and geospatial datasets.
